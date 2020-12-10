@@ -1,0 +1,16 @@
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.exe
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.deps.json
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.runtimeconfig.json
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.runtimeconfig.dev.json
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.dll
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ref\ROT-13.dll
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\bin\Debug\net5.0\ROT-13.pdb
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.csprojAssemblyReference.cache
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.AssemblyInfoInputs.cache
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.AssemblyInfo.cs
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.csproj.CoreCompileInputs.cache
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.dll
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ref\ROT-13.dll
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.pdb
+D:\Files\Programming\personal projects\C#\Advanced\ROT-13\obj\Debug\net5.0\ROT-13.genruntimeconfig.cache
